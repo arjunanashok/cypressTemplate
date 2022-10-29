@@ -102,3 +102,15 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+*.swp
+*.tmp
+*@tmp
+
+
+.DS_Store
+.idea/
+*.prefs
+*.classpath
+*.project
