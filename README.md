@@ -1,7 +1,7 @@
-## cypressTemplate
+# cypressTemplate
 This repo is to create a new cypress framework setup with page object model
 
-# Following npm **development libraries** will be included to new framework template:
+## Following npm **development libraries** will be included to new framework template:
 
 ```
  - *@badeball/cypress-cucumber-preprocessor*
@@ -10,13 +10,13 @@ This repo is to create a new cypress framework setup with page object model
 
 ```
 
-# Following npm **run time libraries** will be include to new framework template:
+## Following npm **run time libraries** will be include to new framework template:
 ```
 -  *cypress*
 
 ```
-
-# New framework template has following Folder hierarchy as shown below:
+ 
+## New framework template has following Folder hierarchy as shown below:
 ```
 .
 ├── cypress
@@ -42,7 +42,7 @@ This repo is to create a new cypress framework setup with page object model
 
 
 ```
-# 
+ 
 
 ### Please see an example below:
 
