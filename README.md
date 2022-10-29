@@ -33,9 +33,9 @@ This repo is to create a new cypress framework setup with page object model
 │   ├── screenshots
 │   ├── support
 │   │   ├── commands.js
-│   │   └── e2e.js
+│   │   └── e2e.js 
 │   └── videos
-│       └── hello.feature.mp4
+|
 ├── cypress.config.js
 ├── package-lock.json
 └── package.json
