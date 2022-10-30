@@ -57,6 +57,8 @@ This repo is to create a new cypress framework setup with page object model
 
 ```
  
-
-### Please see an example below:
-
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
