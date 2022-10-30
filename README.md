@@ -30,6 +30,10 @@ This repo is to create a new cypress framework setup with page object model
    Example: npm run test
   
 ```
+
+```html
+ <b>gello</b>
+```
  
 ## New framework template has following Folder hierarchy as shown below:
 ```
