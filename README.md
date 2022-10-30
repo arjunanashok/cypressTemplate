@@ -21,7 +21,6 @@ This repo is to create a new cypress framework setup with page object model
 ```
  - npm FrameWorkCreate.js "<yourFrameWorkName>"
     <pre>
-        sample <b>sample</b> sample
         Example: <b>npm FrameWorkCreate.js TestFramework</b>
     </pre>
     
