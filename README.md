@@ -20,7 +20,7 @@ This repo is to create a new cypress framework setup with page object model
 
 ```html
  - npm FrameWorkCreate.js yourFrameWorkName
-    <b>npm FrameWorkCreate.js TestFramework</b>
+    **npm FrameWorkCreate.js TestFramework**
  - Naviagate to your new Framework folder, usually it will be "/Users/<userName>/Desktop/<yourFrameWorkName>"
     Example: "/Users/ashok/Desktop/TestFramework"
  - Run npm install in your new Framework terminal in the path "/Users/ashok/Desktop/TestFramework"
@@ -28,7 +28,7 @@ This repo is to create a new cypress framework setup with page object model
  - Run npm test run in your new Framework terminal in the path "/Users/ashok/Desktop/TestFramework"
    Example: npm run test
   
-```html
+```
  
 ## New framework template has following Folder hierarchy as shown below:
 ```
