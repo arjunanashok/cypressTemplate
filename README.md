@@ -32,7 +32,7 @@ This repo is to create a new cypress framework setup with page object model
 ```
 
 ```html
- <b>gello</b>
+ *gello*
 ```
  
 ## New framework template has following Folder hierarchy as shown below:
