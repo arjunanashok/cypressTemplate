@@ -1,0 +1,6 @@
+devdependencies:
+  - "@badeball/cypress-cucumber-preprocessor"
+  - "@bahmutov/cypress-esbuild-preprocessor"
+  - "esbuild"
+dependencies:
+  - "cypress"

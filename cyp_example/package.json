@@ -1,0 +1,24 @@
+{
+  "name": "cyp_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --browser chrome --headed --no-exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.5",
+    "esbuild": "^0.15.12"
+  },
+  "cypress-cucumber-preprocessor":
+  {
+    "stepDefinitions": "cypress/e2e/**/*.js"
+  }
+}

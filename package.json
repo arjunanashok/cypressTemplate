@@ -1,0 +1,20 @@
+{
+  "name": "cypresstemplate",
+  "version": "1.0.0",
+  "description": "This repo is to create a new cypress framework setup with page object model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunanashok/cypressTemplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjunanashok/cypressTemplate/issues"
+  },
+  "homepage": "https://github.com/arjunanashok/cypressTemplate#readme"
+}
