@@ -28,7 +28,7 @@ This repo is to create a new cypress framework setup with page object model
  - Run npm test run in your new Framework terminal in the path "/Users/ashok/Desktop/TestFramework"
    Example: npm run test
   
-```
+```html
  
 ## New framework template has following Folder hierarchy as shown below:
 ```
