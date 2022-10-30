@@ -19,9 +19,8 @@ This repo is to create a new cypress framework setup with page object model
 ## ** Steps to do to create a new Framework and run a sample cypress cucumber test **
 
 ```
-> npm FrameWorkCreate.js "<yourFrameWorkName>"
-    Example: **npm FrameWorkCreate.js TestFramework**s
-    
+ - npm FrameWorkCreate.js "<yourFrameWorkName>"
+    Example: **npm FrameWorkCreate.js TestFramework**
  - Naviagate to your new Framework folder, usually it will be "/Users/<userName>/Desktop/<yourFrameWorkName>"
     Example: "/Users/ashok/Desktop/TestFramework"
  - Run npm install in your new Framework terminal in the path "/Users/ashok/Desktop/TestFramework"
