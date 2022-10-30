@@ -20,7 +20,11 @@ This repo is to create a new cypress framework setup with page object model
 
 ```
  - npm FrameWorkCreate.js "<yourFrameWorkName>"
-    Example: `**`npm FrameWorkCreate.js TestFramework`**`
+    <pre>
+        sample <b>sample</b> sample
+        Example: <b>npm FrameWorkCreate.js TestFramework</b>
+    </pre>
+    
  - Naviagate to your new Framework folder, usually it will be "/Users/<userName>/Desktop/<yourFrameWorkName>"
     Example: "/Users/ashok/Desktop/TestFramework"
  - Run npm install in your new Framework terminal in the path "/Users/ashok/Desktop/TestFramework"
